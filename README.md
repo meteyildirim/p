@@ -1,1 +1,1 @@
-# This repo will be used for creating python tuturials
+# This repo will be used for creating python tutorials
